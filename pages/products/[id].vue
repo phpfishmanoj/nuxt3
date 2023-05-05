@@ -7,9 +7,6 @@
     <div>
         <ProductDetails :product="product" />
     </div>
-    <div>
-        <NuxtLink to="/products" class="btn">Back</NuxtLink>
-    </div>
 </template>
 
 <script setup>
